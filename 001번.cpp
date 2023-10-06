@@ -5,7 +5,7 @@ int main(void) {
 	ios::sync_with_stdio(0);
 	cin.tie(0);
 
-	int n=0, sum = 0;
+	int n, sum = 0;
 	string s;
 	cin >> n >> s;
 
